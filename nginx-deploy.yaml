@@ -19,5 +19,5 @@ spec:
         app: nginx-deploy
     spec:
       containers:
-      - image: docker.io/kawshikroycse/nginx:808
+      - image: docker.io/kawshikroycse/nginx:809
         name: nginx
